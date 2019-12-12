@@ -1,9 +1,11 @@
 body {
   margin: 0;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+  background: linear-gradient( rgb(94, 137, 255) 0%, rgb(151, 243, 253) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 button {
